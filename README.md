@@ -4,5 +4,6 @@
 
 ###### Built with Bootstrap and jQuery
 ![A preview of the result](https://github.com/codelover96/nelson_mandela/blob/main/preview.JPG)
+![A preview of the result](https://github.com/codelover96/nelson_mandela/blob/master/images/preview.JPG)
 [Live Preview](https://priceless-yonath-b42789.netlify.app/)
 ###### ~codelover96
