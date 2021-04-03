@@ -1,4 +1,6 @@
 [[headers]]
 for = "/*"
 [headers.values]
-Content-Security-Policy = "default-src 'self' 'unsafe-eval' 'unsafe-inline' code.jquery.com cdn.jsdelivr.net www.google.com"
+Content-Security-Policy = "default-src 'self' 'unsafe-eval' 'unsafe-inline' code.jquery.com cdn.jsdelivr.net www.google.com;
+script-src 'self' 'unsafe-eval' 'unsafe-inline' code.jquery.com cdn.jsdelivr.net www.google.com;
+script-src-elem 'self' 'unsafe-eval' 'unsafe-inline' code.jquery.com cdn.jsdelivr.net www.google.com;"
