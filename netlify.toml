@@ -1,4 +1,4 @@
-[headers]]
+[[headers]]
 for = "/*"
 [headers.values]
-Content-Security-Policy = "default-src *.jquery.com *.jsdelivr.net 'sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj' 'sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns'; script-src *.jquery.com *.jsdelivr.net 'sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj' 'sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns';"
+Content-Security-Policy = "default-src 'self' 'unsafe-eval' 'unsafe-inline' code.jquery.com cdn.jsdelivr.net www.google.com"
